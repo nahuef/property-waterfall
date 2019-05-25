@@ -1,5 +1,5 @@
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/nahue-f/property-waterfall.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/nahue-f/property-waterfall.svg)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/nahue-f/property-waterfall.svg)
 ![dependencies](https://img.shields.io/badge/dependencies-0-blue.svg)
 
 # property-waterfall
