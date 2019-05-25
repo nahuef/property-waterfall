@@ -1,0 +1,20 @@
+{
+  "name": "property-waterfall",
+  "version": "1.0.0",
+  "author": "Nahuel Fumero <nahuel.fumero@gmail.com>",
+  "license": "MIT",
+  "repository": "nahue-f/property-waterfall",
+  "description": "Looks for a valid value in an object, iterating over a priority ordered array of keys.",
+  "keywords": [
+    "property",
+    "pick",
+    "priority",
+    "waterfall",
+    "key"
+  ],
+  "dependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  }
+}
+
